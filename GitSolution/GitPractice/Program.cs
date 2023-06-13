@@ -23,5 +23,6 @@ Console.WriteLine("abc1");
 Console.WriteLine("abc2");
 Console.WriteLine("abc1");
 Console.WriteLine("abc2");
+Console.WriteLine("yes fork done");
 
 Console.ReadLine();
