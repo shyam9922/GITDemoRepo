@@ -16,6 +16,6 @@ CalculatorClass C1 = new CalculatorClass();
 
 C1.Addition(a, b);
 
-Console.WriteLine("Thank For Your Time");
+Console.WriteLine("Thank For Your Time and support");
 
 Console.ReadLine();
